@@ -4,6 +4,7 @@
 *** 
 <div align=center>
  <h3>introdution</h3>
+ 안녕하세요 백엔드에 관심있는 열정 가득한 신입개발자입니다
  </div>
   <div align=center>
    introdution
