@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=TAEGYEOM's%20GitHub&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=TAE&NBSP;GYEOM's%20GitHub&descAlign=70.&descAlignY=44)
 
 <!--
 **doromiez77/doromiez77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
