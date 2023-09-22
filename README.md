@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
+<h3 align="left"> 📝[blog](https://velog.io/@taro_77){: target="_blank"}</h3>
+
 
 <h3 align="left">📊 GitHub Stats 📊 </h3>
 
